@@ -14,7 +14,6 @@ import org.springframework.web.util.UriComponentsBuilder;
 
 import com.spring.exchange.app.bean.CurrencyExchangeInfo;
 import com.spring.exchange.app.bean.ExchangeRates;
-import com.spring.exchange.app.helper.Constants;
 import com.spring.exchange.app.repository.ExchangeRepository;
 
 @Service
